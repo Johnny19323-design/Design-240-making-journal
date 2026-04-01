@@ -107,7 +107,7 @@ Reflecting on the first week as a whole, I noticed a clear connection between th
 Another important part of Week 1 was learning that the Making Journal would be built in Markdown as a static website. At first, this felt quite technical, but I now understand why the course uses this format. Markdown treats writing as plain text, which means the journal is lightweight, portable, and easy to reuse in other forms such as a website or PDF. This also aligns with the course’s philosophy of treating the process itself as data. In this sense, the way I document my experiments becomes an integral part of the design practice.
 
 ![Class Image](../assets/week-01/design240(p9).png)
-*Markdown Guide*
+*[Markdown Guide](https://www.markdownguide.org/basic-syntax/)*
 
 ## Next Steps
 
