@@ -41,7 +41,7 @@ One of the classroom assignments was to create a simple composition using at lea
 This exercise also boosted my confidence in basic syntax. Writing these short sketches made it easier for me to understand how visual effects are built step by step. I no longer view code as an abstract concept, but rather as a way to construct images through sequence and logic.
 
 ![Class Image](../assets/week-02/design240(p1).png)
-*P5.JS Exercise*
+*[P5.JS Exercise](https://editor.p5js.org/Johnny19323-design/sketches/Iw-SB4Qur)*
 
 ## DOM Elements and Interactivity
 
@@ -56,10 +56,10 @@ In the latter half of the course, we were introduced to **vibe coding**, which t
 This concept really resonated with me because it made programming feel much more accessible as part of a design workflow. I didn’t need to memorize every command in advance; instead, I could focus on describing a specific effect, testing it, and learning from the results. During this process, I experimented with sketches that were more visually ambitious than my earlier shape exercises. These included dynamic particle-like compositions, as well as a whimsical underwater scene filled with schools of fish, jellyfish, bubbles, and controls for day-night cycles. Although these experiments weren’t directly based on the food data I collected in my first week, they helped me understand how interaction, animation, and control work together in p5.js.
 
 ![Class Image](../assets/week-02/design240(p3).png)
-*AI-generated dynamic programs*
+*[AI-generated dynamic programs](https://editor.p5js.org/Johnny19323-design/sketches/f3VipBV5n)*
 
 ![Class Image](../assets/week-02/design240(p2).png)
-*AI-generated dynamic programs*
+*[AI-generated dynamic programs](https://editor.p5js.org/Johnny19323-design/sketches/0NevpAQCn)*
 
 ## Reflection on In-Class Activity
 
