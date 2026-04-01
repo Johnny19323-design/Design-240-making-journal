@@ -24,15 +24,15 @@ While discussing this project with others, I realized that data portraits can be
 A major part of Week 2 was learning the basic structure of a p5.js sketch. The slides introduced the **setup()** function, which runs once at the beginning of the program, and the **draw()** function, which runs continuously while the sketch is active. We also learned how p5.js uses coordinate space, with `(0, 0)` at the top-left corner, `x` increasing to the right, and `y` increasing downward. These ideas were important because they gave me a clearer sense of how visual elements are placed and updated on the canvas.
 
 ![Class Image](../assets/week-02/design240(p8).png)
-*P5.JS Tutorial Website*
+*[P5.JS Tutorial Website](https://p5js.org/tutorials/)*
 
 ![Class Image](../assets/week-02/design240(p7).png)
-*P5.JS Tutorial Website*
+*[P5.JS Reference Website](https://p5js.org/reference/)*
 
 The class also introduced basic drawing commands such as `background()`, `fill()`, `strokeWeight()`, and `circle()`, along with the use of comments to explain what parts of the code are doing. At this stage, the coding process felt very direct: each line had a visible result, and changing values immediately affected the composition. This made the structure of the sketch feel more understandable than I had expected.
 
 ![Class Image](../assets/week-02/design240(p1).png)
-*P5.JS Exercise*
+*[P5.JS Exercise](https://editor.p5js.org/Johnny19323-design/sketches/Iw-SB4Qur)*
 
 ## In-Class Experiment – Simple Shape Composition
 
