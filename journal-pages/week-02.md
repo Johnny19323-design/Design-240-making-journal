@@ -90,6 +90,9 @@ The primary goal of the interactive version is to allow viewers to actively expl
 
 This experience made me realize that interaction design works best when it aligns with the data’s logic. Including a date filter makes sense because my data was collected over time; similarly, including a meal filter makes sense because breakfast, lunch, and dinner form clear subcategories. The color filter provides a deeper dimension for exploration, allowing viewers to more easily spot recurring patterns and outliers in the data. Unlike presenting the entire dataset at once, this design enables viewers to explore the data in smaller, more focused chunks.
 
+![Independent Study](../assets/week-02/design240(p5).png)
+*P5.JS - Data Portrait*
+
 ## What Interaction Adds
 
 One of the key differences between hand-drawn portraits and interactive sketches is that the interactive version allows viewers to ask specific questions about the data. In the original artwork, while the overall picture for the entire week is immediately apparent, it is more difficult to identify patterns within it. In the digital sketch, viewers can quickly compare data from a single day, a specific meal category, or a particular color. This brings certain details into sharper focus, such as which colors recur frequently and which are relatively rare. It also transforms the relationship between the viewer and the visualization, as viewers are no longer passive recipients of images but actively shape what is visible. This reflects the broader concept of interactivity discussed in class, where engagement is viewed as an integral part of the work’s meaning.
