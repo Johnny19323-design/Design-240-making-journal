@@ -82,7 +82,7 @@ For my independent research project in Week 2, I transformed the hand-drawn data
 I did not attempt to replicate every visual detail of the hand-drawn version, but instead focused on the elements that work best in a digital environment. In this sketch, the seven days of the week are arranged horizontally across the screen, while meal types are listed in rows. The color of each food item is represented by a colored circle, allowing viewers to quickly compare color patterns throughout the week. This design maintains consistency with the logic of the original portrait while simplifying the structure to make the interaction clear and user-friendly.
 
 ![Independent Study](../assets/week-02/design240(p4).png)
-*P5.JS - Data Portrait*
+*[P5.JS - Data Portrait](https://editor.p5js.org/Johnny19323-design/sketches/xnXliUnBb)*
 
 ## Designing the Interactive Elements
 
@@ -91,7 +91,7 @@ The primary goal of the interactive version is to allow viewers to actively expl
 This experience made me realize that interaction design works best when it aligns with the data’s logic. Including a date filter makes sense because my data was collected over time; similarly, including a meal filter makes sense because breakfast, lunch, and dinner form clear subcategories. The color filter provides a deeper dimension for exploration, allowing viewers to more easily spot recurring patterns and outliers in the data. Unlike presenting the entire dataset at once, this design enables viewers to explore the data in smaller, more focused chunks.
 
 ![Independent Study](../assets/week-02/design240(p5).png)
-*P5.JS - Data Portrait*
+*[P5.JS - Data Portrait](https://editor.p5js.org/Johnny19323-design/sketches/xnXliUnBb)*
 
 ## What Interaction Adds
 
@@ -106,7 +106,7 @@ I used a language model to assist me during the coding process, which echoed the
 Through this process, I gained a deeper understanding of how p5.js is used to build interactive projects. I became more familiar with the object arrays used to store data, grasped the difference between `setup()` and `draw()`, and learned how to link DOM elements with filtering logic. I also learned that when building interactive sketches, an incremental development approach works best. Starting with a small, working system and then adding features one by one makes the project much easier to manage.
 
 ![Independent Study](../assets/week-02/design240(p6).png)
-*P5.JS - Data Portrait*
+*[P5.JS - Data Portrait](https://editor.p5js.org/Johnny19323-design/sketches/xnXliUnBb)*
 
 ## Reflection on Independent Study
 
