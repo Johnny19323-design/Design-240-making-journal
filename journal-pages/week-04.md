@@ -189,3 +189,4 @@ Overall, my experience using artificial intelligence as a design tool has been m
 
 The next step is to complete Experiment 4: Artificial Intelligence as an independent research project and finalize the Making Journal before submission. Based on the classroom activities from Week 4, I now have a deeper understanding of how local and cloud-based AI tools can support research, reflection, and making, as well as the ethical considerations that must be taken into account when using these tools. In addition, I have a clearer starting point for my Reflective Proposal, particularly regarding the themes and experiments that have proven most meaningful in my Making Journal so far.
 
+[← Back to Home](../index.md)

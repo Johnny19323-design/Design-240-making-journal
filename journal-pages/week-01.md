@@ -112,3 +112,5 @@ Another important part of Week 1 was learning that the Making Journal would be b
 ## Next Steps
 
 In the next phase of this experiment, I hope to improve the way I document the production process and the logic behind the final visualizations. If I undertake a similar project again, I plan to test clearer legends or more structured mapping systems so that other teams can interpret these charts more easily. Additionally, I hope to continue exploring ways to present personal and everyday data in visually engaging ways.
+
+[← Back to Home](../index.md)

@@ -122,3 +122,5 @@ Overall, this project helped me shift from static presentation to interactive ex
 ## Next Steps
 
 My next step is to create a more interactive sketch based on the data from the first week. This week’s classroom activities have given me a solid foundation, allowing me to master the basic structure of p5.js, its coordinate system, graphic rendering, and interactive controls. Moving forward, I will shift my focus away from general visual experiments and instead concentrate on how to use interactive design to enable viewers to explore the food color data in ways that the hand-drawn original cannot achieve.
+
+[← Back to Home](../index.md)

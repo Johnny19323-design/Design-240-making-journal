@@ -151,3 +151,5 @@ Overall, this project has broadened my understanding of real-time data—it can 
 ## Next Steps
 
 My next step is to explore how to make real-time data more visually expressive. While my current weather sketch works as a proof of concept, its presentation remains somewhat straightforward and literal. If I had more time, I would like to experiment with more expressive mapping techniques, more dynamic visual effects, or richer visual feedback. Additionally, I am quite interested in the relationship between real-time data and generative systems, particularly how to combine external information with randomness, noise, or procedural rules to create a presentation that no longer resembles a chart but rather an ever-evolving visual environment.
+
+[← Back to Home](../index.md)
