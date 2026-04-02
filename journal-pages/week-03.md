@@ -50,9 +50,7 @@ After mastering basic terminal operations, the course shifted its focus to using
 I tried using `curl` to request the definition of the word “design” from the Free Dictionary API to practice this process. The terminal returned a large chunk of JSON code. While it wasn’t particularly easy to read as plain text, it clearly demonstrated the structure of the data. This was a pivotal moment for me, as it highlighted the difference between reading information as a user and retrieving data as design material. I no longer saw just the final webpage; instead, I saw the raw information that could later be parsed, filtered, and visualized.
 
 ![Class Image](../assets/week-03/design240(p7).png)
-*Class activity - Request for definition*
-
-*Figure X. Using `curl` to retrieve raw JSON data for the word “design” from the dictionary API.*
+*Using `curl` to retrieve raw JSON data for the word “design” from the dictionary API.*
 
 ## APIs and Weather Data in p5.js
 
@@ -67,9 +65,7 @@ I applied this process in p5.js to create a simple weather sketch using Auckland
 Although this small program is visually simple, it helped me understand the logic behind real-time data visualization. It no longer involves manually setting values, but rather responding to values from an external source. This changes the role of drawing—it is no longer just composing a static image, but designing a system capable of responding to constantly changing information.
 
 ![Class Image](../assets/week-03/design240(p8).png)
-*Class activity - Simple weather sketch*
-
-*Figure X. p5.js weather sketch using live Open-Meteo data for temperature, wind speed, and humidity.*
+*p5.js - weather sketch using live Open-Meteo data for temperature, wind speed, and humidity.*
 
 ## Reflection on Digital Live Data
 
@@ -93,7 +89,7 @@ For the Week 3 independent study, I chose a **digital approach** and created a p
 
 To access the data, I first looked through the official USGS Earthquake Catalog API documentation and used the query structure shown there to build my own URL. I chose the `query` method because it returns the earthquake events themselves rather than only a count. I used `format=geojson` so the data would come back as structured geographic JSON, then added `starttime=2026-03-23`, `minmagnitude=5`, and `orderby=time`. This meant the sketch would use recent earthquake events above magnitude 5 and display the newest ones first. What I found useful about this process was that it made the API feel less like a single fixed link and more like a flexible system that could be shaped through different parameters. ([earthquake.usgs.gov](https://earthquake.usgs.gov/fdsnws/event/1/))
 
-API:https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2026-03-23&minmagnitude=5&orderby=time
+*API:https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2026-03-23&minmagnitude=5&orderby=time*
 
 ### Accessing and Understanding the Data
 
