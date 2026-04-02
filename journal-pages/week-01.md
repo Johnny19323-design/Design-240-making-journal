@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Week 01 - Data Drawings
+# Week 1 - Data Drawings
 
 [← Back to Home](../index.md)
 

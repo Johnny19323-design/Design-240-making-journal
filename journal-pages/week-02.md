@@ -2,12 +2,9 @@
 layout: default
 ---
 
-# Week 02
+# Week 2 – Interactivity
 
 [← Back to Home](../index.md)
-
-
-# Week 2 – Interactivity
 
 ## Overview
 

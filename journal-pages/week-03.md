@@ -2,11 +2,9 @@
 layout: default
 ---
 
-# Week 03
+# Week 3 – Live Data
 
 [← Back to Home](../index.md)
-
-# Week 3 – Live Data
 
 ## Overview
 
