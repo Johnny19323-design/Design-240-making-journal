@@ -146,10 +146,10 @@ This part of the process was quite enlightening, as it highlighted both the tool
 One of the more interesting outcomes from this stage was the idea of representing the DOC campsite data through a physical or tactile translation. This moved the dataset away from the screen and suggested that information about accessibility, density, or facilities could be felt materially rather than only read as numbers. Even though this was not produced as a real object, it was valuable as a conceptual shift because it expanded the way I thought about what a dataset could become.
 
 ![Independent Study](../assets/week-04/design240(p26).png)
-*An example of the Digital Representation direction suggested by Gemini.*
+*An example of the Digital Representation direction.*
 
 ![Independent Study](../assets/week-04/design240(p28).png)
-*An example of the analogue translation direction suggested by Gemini.*
+*An example of the Analogue Translation direction.*
 
 ## Critical Evaluation
 
