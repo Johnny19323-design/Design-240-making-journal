@@ -39,59 +39,61 @@ Following the instructions in class, I completed the entire process of downloadi
 ![Class Image](../assets/week-04/design240(p5).png)
 *Downloading Ollama and preparing the local artificial intelligence workflow.*
 
-After installation, I used the local model and experimented with asking it questions. One of the things I tested was asking the model about model lists and installed versions, which helped me understand that local tools feel more technical and less polished than cloud tools, but they also make the infrastructure of artificial intelligence more visible. Rather than interacting with an invisible remote service, I was interacting with a model that was explicitly running on my own device. This made the relationship between software, hardware, and capability much more concrete.
+After installation, I used the local model and tried asking it questions. One of the things I tested was asking for information about Auckland—something that’s obviously available online—but it took 61.8 seconds and the output was rather sparse. This made me realize that while local tools may seem more technical compared to cloud-based ones, they lack polish. However, they also provide a more intuitive view of the underlying architecture of artificial intelligence. Instead of interacting with an invisible remote service, you’re interacting with a model that’s clearly running on your own device. This makes the relationship between software, hardware, and functionality much more concrete.
 
-![Class Image]()
+![Class Image](../assets/week-04/design240(p16).png)
 *Early interaction with a local model through the terminal and local artificial intelligence interface.*
 
 ## In-Class Activity – Experimenting with Local Model Output
 
-The next part of the activity was to spend time chatting with the local model and testing its limits. The slides suggested asking it to describe previous experiment data, write a short p5.js sketch, or answer something one might normally ask ChatGPT, then comparing the quality of the response. :contentReference[oaicite:11]{index=11}
+The next part of the activity involves spending some time interacting with the local model and testing the limits of its capabilities. The presentation suggests having it describe previous experimental data, write a short piece of p5.js code, or answer some questions typically asked of ChatGPT, and then comparing the quality of the responses.
 
-I used the local model to generate a simple website example. I typed a natural language request asking it to write code about a website, and it returned a basic HTML, Cascading Style Sheets, and JavaScript structure. I then copied this into a local file and opened it in the browser to test the result. This was a useful demonstration of vibe coding in practice. It showed that the model could produce something functional from a broad prompt, but it also made clear that the designer still needs to test, interpret, and decide whether the output is actually appropriate. The generated result was usable, but also generic, which made me reflect on the difference between speed and originality. :contentReference[oaicite:12]{index=12}
+I used a local model to generate a simple example website. I entered a natural language prompt asking it to write code for a website, and it returned a basic structure consisting of HTML, Cascading Style Sheets (CSS), and JavaScript. I then copied this content into a local file and opened it in a browser to test the results. This vividly demonstrates the practical application of “atmosphere programming.” It shows that the model can generate working code based on broad prompts, but it also clearly indicates that designers still need to test and interpret the output to determine whether it is truly suitable. While the generated results are usable, they are fairly generic, which led me to reflect on the trade-off between speed and originality.
 
-![Insert image here](your-image-path-here)
+![Class Image](../assets/week-04/design240(p10).png)
+*Prompting a local model to generate simple website code.*
 
-*Figure X. Prompting a local model to generate simple website code.*
-
-![Insert image here](your-image-path-here)
-
-*Figure X. The generated website opened and tested in the browser.*
+![Class Image](../assets/week-04/design240(p11).png)
+*The generated website opened and tested in the browser.*
 
 ## In-Class Activity – Cloud Artificial Intelligence and NotebookLM
 
-After working with local artificial intelligence, the class contrasted this with **cloud-based artificial intelligence**. The slides explained that tools such as ChatGPT, Copilot, and Gemini send prompts to remote servers, rely on internet connectivity, and use larger, more capable models, but also involve data leaving the user’s machine. The slides also compared university-supported tools and then introduced **NotebookLM** as a research tool that works by drawing on the sources users upload. It can synthesise across documents, websites, and media, and can generate outputs such as text summaries, tables, mind maps, and audio overviews. :contentReference[oaicite:13]{index=13}
+After working with local artificial intelligence, the class contrasted this with **cloud-based artificial intelligence**. The slides explained that tools such as ChatGPT, Copilot, and Gemini send prompts to remote servers, rely on internet connectivity, and use larger, more capable models, but also involve data leaving the user’s machine. The slides also compared university-supported tools and then introduced **NotebookLM** as a research tool that works by drawing on the sources users upload. It can synthesise across documents, websites, and media, and can generate outputs such as text summaries, tables, mind maps, and audio overviews.
 
-In class, I built a NotebookLM notebook using my own course materials. The slides instructed us to upload sources representing our experimentation so far, mixing our Making Journal with other relevant material, then create a `context.md` file that frames the project by answering three questions: the experiment found most interesting, a recurring theme, and something not yet explored. I completed this process by creating the context file in Markdown, previewing it, and then uploading it into NotebookLM alongside my journal source. :contentReference[oaicite:14]{index=14}
+![Class Image](../assets/week-04/design240(p7).png)
+*Creating a NotebookLM `notebook` using Making Journal*
 
-![Insert image here](your-image-path-here)
+In class, I created a NotebookLM notebook using my own course materials. The course materials required us to upload relevant materials from our experiments to date, combine Making Journal with other related materials, and then create a `context.md` file to summarize the project by answering three questions: the most interesting experiment, a recurring theme, and areas yet to be explored. I completed this process by following these steps: creating the context file in Markdown format, previewing it, and then uploading it to NotebookLM along with my journal source files.
 
-*Figure X. Creating and previewing the `context.md` file used to frame the notebook.*
+![Class Image](../assets/week-04/design240(p12).png)
+*Creating and previewing the `context.md` file used to frame the notebook.*
 
-Once the notebook was set up, I used the NotebookLM chat to ask questions such as what the final design outcome might be if the sources were treated as documentation for a design project, and what the sources suggested I cared about. The responses were useful because they reflected recurring themes back to me, especially around personal data, digital workflow, and the shift from physical to digital processes. This exercise felt different from asking a general-purpose chatbot because the responses were grounded in the sources I had provided, making the conversation more focused and project-specific. :contentReference[oaicite:15]{index=15}
+After setting up the notebook, I used the NotebookLM chat feature to ask a few questions, such as: If I treat this data as documentation for a design project, what would the final design outcome look like? And what aspects should I focus on based on this data? The responses were very helpful because they highlighted recurring themes, particularly regarding personal data, digital workflows, and the transition from physical to digital processes. Unlike interactions with generic chatbots, what made this exchange unique was that the responses were based on the materials I provided, making the conversation more focused and project-specific.
 
-![Insert image here](your-image-path-here)
+![Class Image](../assets/week-04/design240(p13).png)
+*Update `context.md` file to notebook.*
 
-*Figure X. Building a NotebookLM notebook with journal-related sources.*
+![Class Image](../assets/week-04/design240(p14).png)
+*Asking source-based questions inside NotebookLM and reading the responses.*
 
-![Insert image here](your-image-path-here)
-
-*Figure X. Asking source-based questions inside NotebookLM and reading the responses.*
+![Class Image](../assets/week-04/design240(p15).png)
+*Asking source-based questions inside NotebookLM and reading the responses.*
 
 ## In-Class Activity – Reflective Proposal and Ideation
 
-The final part of the class shifted toward the next assessment stage: the **Reflective Proposal**. The slides explained that this proposal marks the transition from broad experimentation toward a focused design direction, asking students to identify a thematic focus, data source, future scenario, and intended impact for a final data-driven visualisation project. They also emphasised that strong proposals need to be concise, feasible, and clearly connected to prior experiments and relevant ideas about data representation. :contentReference[oaicite:16]{index=16}
+The final section of the course shifts to the next phase of assessment: the **Reflective Proposal**. The slides explain that this proposal marks a transition from a broad experimental phase to a focused design direction, requiring students to define the thematic focus, data sources, future scenarios, and anticipated impact for their final data-driven visualization project. The slides also emphasize that a strong proposal must be concise, feasible, and clearly connect to previous experiments and relevant concepts regarding data presentation.
 
-The class included an **ideation activity** and **pair interview** process, where we were encouraged to review our journal, identify the experiments that felt most meaningful, and begin articulating possible project directions. The use of NotebookLM and the context file fed well into this stage because it provided a different way to reflect on my own work. Rather than only looking back manually, I could also see how an artificial intelligence tool interpreted patterns across my experiments. This did not replace my own reflection, but it did help generate directions and questions that might support the proposal-writing stage. :contentReference[oaicite:17]{index=17}
+This session included an **ideation activity** and a **pair interview**. We were encouraged to review our journals, identify the experiments that felt most meaningful, and begin outlining potential project directions. NotebookLM and the context files played a crucial role at this stage, as they provided me with a fresh perspective on my own work. Not only could I manually review my past work, but I could also observe how AI tools interpreted the patterns in my various experiments. While this cannot replace my personal reflection, it does help generate directions and questions that may support the proposal-writing phase.
 
 ## Reflection on In-Class Activities
 
-Week 4 was one of the most conceptually broad weeks so far because it combined technical experimentation with ethical and critical questions. In earlier weeks, the focus had been more directly on making: drawing data, building interaction, and visualising live data. This week still involved making, but it also asked what kinds of systems artificial intelligence depends on, whose labour supports it, what happens to our data when using cloud systems, and how artificial intelligence might be used more responsibly in design. That made the week feel less like a tutorial on new tools and more like a wider reflection on what it means to work with these tools critically. :contentReference[oaicite:18]{index=18}
+Week 4 has been the most conceptually broad week so far, as it combines technical experimentation with ethical and critical issues. In previous weeks, the course focused more directly on practical tasks: plotting data, building interactions, and visualizing real-time data. While this week still involves hands-on work, it also explores the systems on which AI relies, whose labor underpins it, what happens to our data when we use cloud systems, and how to use AI more responsibly in design. This shifts the focus of this week’s course from a tutorial on new tools to a broader reflection on how to use these tools critically.
 
-The contrast between **local** and **cloud** artificial intelligence was especially useful. Working with Ollama made artificial intelligence feel more limited but also more transparent, because I could see that the model was installed locally and that the process depended on my own hardware. NotebookLM, by contrast, felt more powerful and polished, especially because it could synthesise across multiple sources and return more structured reflections. Comparing these two approaches helped me understand that different artificial intelligence tools are not interchangeable. They differ in capability, workflow, privacy, and purpose. :contentReference[oaicite:19]{index=19}
+The comparison between **local** and **cloud** AI is particularly insightful. When using Ollama, I feel that while the AI’s capabilities are somewhat limited, it is also more transparent, as I can clearly see that the model is installed locally and runs on my own hardware. In contrast, NotebookLM appears more powerful and mature, especially given its ability to integrate information from multiple sources and generate more structured feedback. Comparing these two approaches has made me realize that different AI tools are not interchangeable. They differ in terms of functionality, workflow, privacy protection, and intended use.
 
-Another important insight from this week was that artificial intelligence works best when used as part of a reflective process rather than as an automatic answer machine. The best moments in class came not from accepting the first output, but from testing, comparing, questioning, and situating the tools in relation to my own design process. This feels especially relevant as the course moves into the proposal stage, where the goal is no longer just to experiment broadly, but to identify a meaningful and feasible direction to carry forward.
+Another key insight gained this week is that artificial intelligence works best when used as part of a reflective process, rather than simply as an automatic answer generator. The most compelling moments in the classroom did not arise from directly adopting the first results generated, but rather from testing, comparing, and questioning the tool, and considering it within my own design process. This became particularly important as the course entered the proposal phase—at which point the goal was no longer to experiment broadly, but to identify a meaningful and viable direction to move forward.
 
 ## Next Steps
 
-The next step is to complete **Experiment 4: Artificial Intelligence** as the independent study and then finalise the Making Journal before the hand-in. Based on the Week 4 class activities, I now have a stronger understanding of how local and cloud artificial intelligence tools can support research, reflection, and making, as well as the ethical questions that need to be considered when using them. I also have a clearer starting point for the Reflective Proposal, especially in relation to the themes and experiments that seem most meaningful in my journal so far. :contentReference[oaicite:20]{index=20}
+The next step is to complete Experiment 4: Artificial Intelligence as an independent research project and finalize the Making Journal before submission. Based on the classroom activities from Week 4, I now have a deeper understanding of how local and cloud-based AI tools can support research, reflection, and making, as well as the ethical considerations that must be taken into account when using these tools. In addition, I have a clearer starting point for my Reflective Proposal, particularly regarding the themes and experiments that have proven most meaningful in my Making Journal so far.
+
