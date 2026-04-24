@@ -5,7 +5,7 @@ title: Home
 
 # Making Journal for DES240
 
-*Write a short introduction about yourself and this course here. What are you hoping to learn and achieve? What's your background as a designer? What are your interests as a designer?*
+*I am a design student with a keen interest in using data to explore everyday life, public information and environmental experiences. In this course, I hope to develop my skills in a range of data design methodologies, including hand-drawn data visualisation, interactive design, real-time data and AI-assisted tools. I am passionate about visual communication and digital creation, and I wish to learn how to transform data into works that are both informative and meaningful. Through this course, I hope to gain the confidence to combine technical tools with critical and creative thinking.*
 
 ---
 
