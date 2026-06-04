@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Week 06
+# Week 6
 
 [← Back to Home](../index.md)
 
@@ -18,7 +18,7 @@ This discussion helped me refine the project theme from a broad interest in envi
 
 ### 2. Data Exploration
 
-After the consultation, I spent time exploring the DOC Campsites dataset in more detail. The Week 06 overview instructed us to examine what the data source is, where it comes from, what it contains, how it is structured, and what limitations or gaps it might contain.
+After the consultation, I spent time exploring the DOC Campsites dataset in more detail. The Week 6 overview instructed us to examine what the data source is, where it comes from, what it contains, how it is structured, and what limitations or gaps it might contain.
 
 The DOC Campsites dataset comes from the New Zealand open data platform and is an existing public dataset rather than a dataset that I collected myself. I noted that it was static rather than live, but still strong enough to continue with because it contained fields that were useful for my project direction. In particular, I focused on campsite category, region, access method, and dog policy, as well as other practical information such as facilities and capacity. These fields immediately showed me that the dataset is less about “nature itself” and more about how natural spaces are classified and managed. This was an important realisation, because it aligned strongly with the conceptual focus I had described in the consultation.
 
@@ -66,7 +66,7 @@ This preliminary sketch is valuable because it integrates concepts, data sources
 
 ## Reflection
 
-Week 06 was the point where the project began to move from proposal into active development. The class activities required me to test whether my initial ideas could actually be supported by a dataset, a visual direction, and a practical making plan. The Proposal Consultation was especially important, because it helped sharpen the critical dimension of the project. Instead of treating the DOC Campsites dataset as neutral information, I began to see it as a system that shapes how natural spaces are understood.
+Week 6 was the point where the project began to move from proposal into active development. The class activities required me to test whether my initial ideas could actually be supported by a dataset, a visual direction, and a practical making plan. The Proposal Consultation was especially important, because it helped sharpen the critical dimension of the project. Instead of treating the DOC Campsites dataset as neutral information, I began to see it as a system that shapes how natural spaces are understood.
 
 The combination of consultation, data exploration, visual research, and planning made this week especially productive. It did not yet result in a finished prototype, but it established the framework for everything that followed. Most importantly, it confirmed that the project would need to balance two things at once: practical clarity and conceptual depth. That tension became the foundation for the later development of the project.
 

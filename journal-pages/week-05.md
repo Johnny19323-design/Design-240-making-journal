@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Week 05
+# Week 5
 
 [← Back to Home](../index.md)
 
