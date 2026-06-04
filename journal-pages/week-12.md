@@ -20,8 +20,14 @@ The project aims to encourage viewers to question how environmental data influen
 
 ## Final Artefact
 
+![Final Artefact](../assets/week-12/1.gif)
 
+![Final Artefact](../assets/week-12/2.gif)
 
+![Final Artefact](../assets/week-12/3.gif)
 
+![Final Artefact](../assets/week-12/4.gif)
+
+![Final Artefact](../assets/week-12/5.gif)
 
 [← Back to Home](../index.md)
