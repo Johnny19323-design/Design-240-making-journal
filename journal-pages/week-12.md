@@ -20,7 +20,7 @@ The project aims to encourage viewers to question how environmental data influen
 
 ## Final Artefact
 
-*Final artefact website: https://johnny19323-design.github.io/Design-240---Sitemap/*
+*Final artefact website - https://johnny19323-design.github.io/Design-240---Sitemap/*
 
 ![Final Artefact](../assets/week-12/1.gif)
 *This view shows the default state of the Route Recommendation Map. At this stage, the full curated dataset is visible on the map, allowing users to see the overall spatial distribution of the selected campsites across Aotearoa New Zealand. The left panel presents the available filtering controls, while the right panel displays detailed campsite information when a marker is selected. This opening state is important because it introduces the project as both a navigational interface and a critical visual system for reading public nature through data.*
